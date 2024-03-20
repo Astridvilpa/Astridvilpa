@@ -26,7 +26,7 @@ Currently, I'm a Community Team Member 🙍🏽‍♂️ [@Astridvilpa](https://
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annahico&size_weight=0.5&count_weight=0.5)
 
 <h2>📈 My GitHub Stats:</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=annahico&amp;show_icons=true" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Astridvilpa&amp;show_icons=true" alt="GitHub Stats"></p>
   <a href="https://www.buymeacoffee.com/annahico" target="_blank" rel="noreferrer nofollow">
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
   </a>
