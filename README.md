@@ -12,16 +12,16 @@ Currently, I'm a Community Team Member 🙍🏽‍♂️ [@Astridvilpa](https://
 
 <h2>Languages and Tools:</h2> 
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/annahico)](https://github.com/annahico) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/annahico)](https://github.com/annahico) 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/annahico)](https://github.com/annahico) 
-[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=TypeScript&link=https://github.com/annahico)](https://github.com/annahico) 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/annahico)](https://github.com/annahico)
-[![Redux](https://img.shields.io/badge/-Reduxt-black?style=flat&logo=redux&link=https://github.com/annahico)](https://github.com/annahico)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/annahico)](https://github.com/annahico)
-[![Express](https://img.shields.io/badge/-Express-green?style=flat&logo=Express&link=https://github.com/annahico)](https://github.com/annahico)
-[![Sequelize](https://img.shields.io/badge/-Sequelize-green?style=flat&logo=Sequuelize&link=https://github.com/annahico)](https://github.com/annahico)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/annahico)](https://github.com/annahico) 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript 
+[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=TypeScript 
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react
+[![Redux](https://img.shields.io/badge/-Reduxt-black?style=flat&logo=redux
+[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js
+[![Express](https://img.shields.io/badge/-Express-green?style=flat&logo=Express
+[![Sequelize](https://img.shields.io/badge/-Sequelize-green?style=flat&logo=Sequuelize
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annahico&size_weight=0.5&count_weight=0.5)
 
