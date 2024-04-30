@@ -1,5 +1,5 @@
 <h1>Hi I'm Astrid 😎</h1>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
+<img align="right" src="https://th.bing.com/th/id/OIP.OYKMfatmHQowW0N0Tdl0XgHaHa?rs=1&pid=ImgDetMain" width="400" />
 
 
 <div>
