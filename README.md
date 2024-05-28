@@ -23,10 +23,10 @@ Currently, I'm a Community Team Member 🙍🏽‍♂️ [@Astridvilpa](https://
 ![Sequelize](https://img.shields.io/badge/-Sequelize-green?style=flat&logo=Sequuelize)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astridvilpa&size_weight=0.5&count_weight=0.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astridvilpa&layout=compact)]
 
 <h2>📈 My GitHub Stats:</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=Astridvilpa&amp;show_icons=true" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Astridvilpa&count_private=true" alt="GitHub Stats"></p>
   <a href="https://www.buymeacoffee.com/AstridVilpa" target="_blank" rel="noreferrer nofollow">
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
   </a>
