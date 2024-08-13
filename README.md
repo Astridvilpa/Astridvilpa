@@ -5,7 +5,7 @@
   <p>Hola, soy Astrid Viloria, una estudiante apasionada y diligente de GeekHub Academy 🚀 de Madrid, España, forjando un camino para convertirse en una desarrolladora Full Stack competente. A través de una combinación de conocimientos teóricos y experiencia práctica, me dedico a crear un futuro en el que la tecnología transforme las posibilidades. Acompáñame en este emocionante viaje mientras continúo aprendiendo, creciendo y dejando mi huella en el dinámico mundo del desarrollo Full Stack..</p>
 </div>
 
-Currently, I'm a Community Team Member 🙍🏽‍♂️ [@Astridvilpa](https://github.com/Astridvilpa).
+Actualmente, soy miembro del equipo de la comunidad 🙍🏽‍♂️ [@Astridvilpa](https://github.com/Astridvilpa).
 
 <h2>Languages and Tools:</h2>
 
