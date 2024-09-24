@@ -2,10 +2,10 @@
 <img align="right" src="https://th.bing.com/th/id/OIP.OYKMfatmHQowW0N0Tdl0XgHaHa?rs=1&pid=ImgDetMain" width="400" />
 
 <div>
-  <p>Hola, soy Astrid Viloria, una estudiante apasionada y diligente de GeekHub Academy 🚀 de Madrid, España, forjando un camino para convertirse en una desarrolladora Full Stack competente. A través de una combinación de conocimientos teóricos y experiencia práctica, me dedico a crear un futuro en el que la tecnología transforme las posibilidades. Acompáñame en este emocionante viaje mientras continúo aprendiendo, creciendo y dejando mi huella en el dinámico mundo del desarrollo Full Stack..</p>
+  <p>Hi, I'm Astrid Viloria, a passionate and diligent student of GeekHub Academy 🚀 from Madrid, Spain, forging a path to becoming a competent Full Stack developer. Through a combination of theoretical knowledge and practical experience, I am dedicated to creating a future where technology transforms possibilities. Join me on this exciting journey as I continue to learn, grow, and make my mark in the dynamic world of Full Stack development.</p>
 </div>
 
-Actualmente, soy miembro del equipo de la comunidad 🙍🏽‍♂️ [@Astridvilpa](https://github.com/Astridvilpa).
+Currently, I am a member of the  [@Astridvilpa](https://github.com/Astridvilpa). community 🙍🏽 ♂️ team.
 
 <h2>Languages and Tools:</h2>
 
